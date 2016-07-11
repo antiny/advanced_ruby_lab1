@@ -37,7 +37,7 @@ todo.display
 
 # Pros:
 # - easy to support new format
-# -
+# - 
 # Cons:
 # - have to know which format is being used 
-# - couling between data and display
+# - coulping between data and display
